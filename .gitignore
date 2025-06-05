@@ -1,0 +1,6 @@
+*.pt
+*.avi
+*.pkl
+__pycache__/
+output_videos/
+runs/
